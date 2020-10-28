@@ -79,3 +79,8 @@ input[type=reset] {
   width: 5rem;
   float: right;
 }
+
+.precrtano {
+  text-decoration: line-through;
+  color: #800;
+}
